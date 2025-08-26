@@ -1,0 +1,3 @@
+[submodule "day03/day03/django-notes-app"]
+	path = day03/day03/django-notes-app
+	url = https://github.com/LondheShubham153/django-notes-app
